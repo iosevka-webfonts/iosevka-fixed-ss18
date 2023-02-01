@@ -1,6 +1,6 @@
-# Iosevka-fixed-ss18 WebFont 17.1.0
+# Iosevka Fixed SS18 WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Iosevka-fixed-ss18/Iosevka-fixed-ss18.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevka fixed ss18 Web'` or `font-family: 'Iosevka fixed ss18 Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/iosevka-fixed-ss18/iosevka-fixed-ss18.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Fixed SS18 Web'` or `font-family: 'Iosevka Fixed SS18 Web'`.
